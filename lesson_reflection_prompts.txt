@@ -1,18 +1,62 @@
-What happens when you initialize a repository? Why do you need to do it?
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+    In that way I can see the bug through the differences.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+    In that way, I could to know all changes I made and the differences between them.
 
-How do the diagrams help you visualize the branch structure?
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+    When a program save versions automatically then can to create many versions that have same content and use too many space in disk.
+    
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+    I don't have idea.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I don't know yet.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because using version control we can revert any change with mistakes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Download it and install it.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+    Seeing the changes of the file I can to know how it was made and make it easy to make new changes.
+    
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    The pro is that you have control on the quantity e quality the commits created.
+    
+Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because, for each commit it saves all repository files with a unique number 
+    that identifies the version.
+    
+How can you use the commands git log and git diff to view the history of files?
+
+    Using git log I can view all the commits ID and with git diff I can view the differences between them.
+    
+How might using version control make you more confident to make changes that 
+could break something?
+
+    I can reverse the version until detect the error's origin.
+    
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    
